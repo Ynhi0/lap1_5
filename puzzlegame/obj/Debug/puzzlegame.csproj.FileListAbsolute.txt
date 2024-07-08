@@ -1,0 +1,11 @@
+D:\lab01_BuiThiYenNhi_2251012103\puzzlegame\bin\Debug\puzzlegame.exe.config
+D:\lab01_BuiThiYenNhi_2251012103\puzzlegame\bin\Debug\puzzlegame.exe
+D:\lab01_BuiThiYenNhi_2251012103\puzzlegame\bin\Debug\puzzlegame.pdb
+D:\lab01_BuiThiYenNhi_2251012103\puzzlegame\obj\Debug\puzzlegame.csproj.AssemblyReference.cache
+D:\lab01_BuiThiYenNhi_2251012103\puzzlegame\obj\Debug\puzzlegame.csproj.SuggestedBindingRedirects.cache
+D:\lab01_BuiThiYenNhi_2251012103\puzzlegame\obj\Debug\puzzlegame.Form1.resources
+D:\lab01_BuiThiYenNhi_2251012103\puzzlegame\obj\Debug\puzzlegame.Properties.Resources.resources
+D:\lab01_BuiThiYenNhi_2251012103\puzzlegame\obj\Debug\puzzlegame.csproj.GenerateResource.cache
+D:\lab01_BuiThiYenNhi_2251012103\puzzlegame\obj\Debug\puzzlegame.csproj.CoreCompileInputs.cache
+D:\lab01_BuiThiYenNhi_2251012103\puzzlegame\obj\Debug\puzzlegame.exe
+D:\lab01_BuiThiYenNhi_2251012103\puzzlegame\obj\Debug\puzzlegame.pdb

@@ -1,0 +1,11 @@
+D:\Lab01_BuiThiYenNhi_2251012103\BT04\obj\Debug\BT04.csproj.AssemblyReference.cache
+D:\Lab01_BuiThiYenNhi_2251012103\BT04\obj\Debug\BT04.csproj.SuggestedBindingRedirects.cache
+D:\Lab01_BuiThiYenNhi_2251012103\BT04\obj\Debug\BT04.Form1.resources
+D:\Lab01_BuiThiYenNhi_2251012103\BT04\obj\Debug\BT04.Properties.Resources.resources
+D:\Lab01_BuiThiYenNhi_2251012103\BT04\obj\Debug\BT04.csproj.GenerateResource.cache
+D:\Lab01_BuiThiYenNhi_2251012103\BT04\obj\Debug\BT04.csproj.CoreCompileInputs.cache
+D:\Lab01_BuiThiYenNhi_2251012103\BT04\bin\Debug\BT04.exe.config
+D:\Lab01_BuiThiYenNhi_2251012103\BT04\bin\Debug\BT04.exe
+D:\Lab01_BuiThiYenNhi_2251012103\BT04\bin\Debug\BT04.pdb
+D:\Lab01_BuiThiYenNhi_2251012103\BT04\obj\Debug\BT04.exe
+D:\Lab01_BuiThiYenNhi_2251012103\BT04\obj\Debug\BT04.pdb
